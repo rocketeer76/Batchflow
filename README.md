@@ -1,3 +1,5 @@
+[![Batchflow](public/media/social/og-card.png)](https://batchflowapp.netlify.app/)
+
 # Batchflow
 
 Turn data into progress.
